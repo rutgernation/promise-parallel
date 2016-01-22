@@ -23,8 +23,5 @@
   "devDependencies": {
     "jshint": "^2.8.0",
     "mocha": "^2.3.3"
-  },
-  "dependencies": {
-    "es6-promise": "^3.0.2"
   }
 }
